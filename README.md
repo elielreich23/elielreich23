@@ -17,7 +17,8 @@
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/eliel-douna-a789b7218?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3bh8ag9oemry%2bflbxmelfwvg%3d%3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/eliel-douna-a789b7218?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3bh8ag9oemry%2bflbxmelfwvg%3d%3d" height="30" width="40" /></a>
 </p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=dracula"/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=elielreich23&theme=radical)
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elielreich23&layout=compact&langs_count=7&theme=dracula"/>
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -38,4 +39,4 @@
  
 </div>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=elielreich23&theme=radical)
+
