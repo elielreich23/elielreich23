@@ -15,7 +15,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/eliel-douna-a789b7218?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3bh8ag9oemry%2bflbxmelfwvg%3d%3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/eliel-douna-a789b7218?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3bh8ag9oemry%2bflbxmelfwvg%3d%3d" height="30" width="40" /></a>
+<a href="linkedin.com/in/eliel-douna-a789b7218"
+lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3bh8ag9oemry%2bflbxmelfwvg%3d%3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/eliel-douna-a789b7218?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3bh8ag9oemry%2bflbxmelfwvg%3d%3d" height="30" width="40" /></a>
 </p>
   <a href = "mailto:elielreich229@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" margin-top="30px" ></a>
 
