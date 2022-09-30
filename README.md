@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Eliel</h1>
 <h3 align="center">A passionate frontend developer from Benin currently living in Brazil</h3>
 
-- 🔭 I’m currently working on **on low level progrmming language from ALX - holberton School **
+- 🔭 I’m currently working on **on low level progrmming language from ALX - holberton School**
 
 - 🌱 I’m currently learning **c++ and typescript**
 
