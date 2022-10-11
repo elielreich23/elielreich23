@@ -12,6 +12,7 @@
 - 💬 Ask me about **react, javascript**
 
 - 📫 How to reach me **elielreich229@gmail.com**
+- 👨‍🏫 Technical articles **https://medium.com/@elieldouna6549/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
