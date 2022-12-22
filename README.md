@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working **on low level progrmming language from ALX - holberton School**
 
-- 🌱 I’m currently learning **c++ and typescript**
+- 🌱 I’m currently learning **Python and React**
 
 - 👯 I’m looking to collaborate on **project that are open source and that will create an impact**
 
